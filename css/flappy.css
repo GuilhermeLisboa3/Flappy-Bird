@@ -63,4 +63,5 @@
     right: 10px;
     font-family: Pixel;
     font-size: 20px;
+    z-index: 100;
 }
